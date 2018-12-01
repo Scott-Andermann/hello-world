@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+
+Learning Github to create portfolio of projects
